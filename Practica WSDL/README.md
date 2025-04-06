@@ -1,4 +1,4 @@
-# Proyecto SOS WSDL 2020
+# Proyecto SOS WSDL
 
 ##Autores
 - Iñigo Aranguren Redondo
